@@ -34,6 +34,9 @@ div#main {
   max-width: 85%;
 }
 
+div #img-div {
+  justify-self: center;
+}
 div #image {
   display: block;
   max-width: 100%;
